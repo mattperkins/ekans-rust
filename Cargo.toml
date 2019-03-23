@@ -1,0 +1,6 @@
+[package]
+name = "ekans_rust"
+version = "0.1.0"
+authors = ["DORMshed"]
+
+[dependencies]
