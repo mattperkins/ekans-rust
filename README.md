@@ -7,3 +7,7 @@ cargo new app_name --bin
 ```
 cargo build
 ```
+### documentation
+```
+cargo doc --open
+```
